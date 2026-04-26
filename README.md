@@ -3,14 +3,14 @@
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
 
 ## Table of contents
-- [Live Site URL](#links)
+- [Links](#links)
 - [My process](#my-process)
 - [Installation](#installation)
 - [Author](#author)
 
 ## Links
-- **Solution URL:** [Your GitHub Code Link]
-- **Live Site URL:** [Your Vercel/GitHub Pages Link]
+- **Solution URL:** [GitHub Code Link](https://github.com/faithnana/Social-links-profile)
+- **Live Site URL:** [GitHub Pages Link](https://faithnana.github.io/Social-links-profile/)
 
 ## My process
 ### Built with
@@ -23,8 +23,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - i needed to make a a block element for it to take the full width, width : 100% didn't work
 
 ## Installation
-1. Clone the repo: `git clone [url]`
+1. Clone the repo: `git clone https://github.com/faithnana/Social-links-profile.git`
 2. Open `index.html` in your browser.
 
 ## Author
-- Frontend Mentor - [FaithNana]
+- Frontend Mentor - [@FaithNana](https://www.frontendmentor.io/profile/FaithNana)
